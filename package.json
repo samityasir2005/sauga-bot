@@ -1,0 +1,30 @@
+{
+    "name": "peekas-bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "engines": {
+        "node": "14.8.x"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@aero/sanitizer": "^1.2.0",
+        "canvas": "^2.6.1",
+        "covid19-api": "^1.2.1",
+        "dateformat": "^3.0.3",
+        "discord.js": "^12.4.1",
+        "glob": "^7.1.6",
+        "metric-prefix": "^0.9.0",
+        "ms": "^2.1.2",
+        "node-dogandcat": "^1.1.0",
+        "number-formatter": "^1.2.0",
+        "random-cat": "^1.0.1",
+        "simple-json-db": "^1.2.2",
+        "winston": "^3.3.3",
+        "xml": "^1.0.1"
+    }
+}
