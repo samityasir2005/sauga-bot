@@ -20,10 +20,12 @@
         "glob": "^7.1.6",
         "metric-prefix": "^0.9.0",
         "ms": "^2.1.2",
+        "nedb": "^1.8.0",
         "node-dogandcat": "^1.1.0",
         "number-formatter": "^1.2.0",
         "random-cat": "^1.0.1",
         "simple-json-db": "^1.2.2",
+        "string-hash": "^1.1.3",
         "winston": "^3.3.3",
         "xml": "^1.0.1"
     }
